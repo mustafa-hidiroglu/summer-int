@@ -1,0 +1,1 @@
+$(cat /workspace/user/auto-product-design-internships.md)
